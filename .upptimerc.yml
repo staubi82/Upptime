@@ -13,7 +13,7 @@ sites:
     url: http://kwhwetter.de
   - name: Staubile.de
     url: https://staubile.de
-  - name: staubi3D (Offline)
+  - name: Staubi3D (Offline)
     url: http://staubi3d.de
   - name: Staubi Server (Offline)
     url: http://stbsrv.de
