@@ -3,20 +3,30 @@ owner: staubi82 # Your GitHub organization or username, where this repository li
 repo: Upptime # The name of this repository
 
 sites:
-  - name: OeffWetter.de
+  - name: OeffWetter
     url: https://Oeffwetter.de
+  - name: Wetter-Oeffingen
+    url: https://wetter-oeffingen.de
+  - name: Oeffingen-Wetter
+    url: https://oeffingen-wetter.de
+  - name: KWH Wetter (Offline)
+    url: http://kwhwetter.de
   - name: Staubile.de
     url: https://staubile.de
+  - name: staubi3D (Offline)
+    url: http://staubi3d.de
+  - name: Staubi Server (Offline)
+    url: http://stbsrv.de
   - name: Github Staubi82
     url: https://github.com/staubi82/
   - name: Printables
     url: https://www.printables.com/de/@Staubi
- # - name: Staubi3D.de
- #   url: https://staubi3d.de
   - name: Google
     url: https://www.google.de
   - name: Cloudflair DNS
     url: https://one.one.one.one/
+
+  - name: 
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
