@@ -7,17 +7,16 @@ sites:
     url: https://Oeffwetter.de
   - name: Staubile.de
     url: https://staubile.de
-  - name: Staubi3D.de
-    url: https://staubi3d.de
+  - name: Github Staubi82
+    url: https://github.com/staubi82/
+  - name: Printables
+    url: https://www.printables.com/de/@Staubi
+ # - name: Staubi3D.de
+ #   url: https://staubi3d.de
   - name: Google
     url: https://www.google.de
-  - name: Wikipedia
-    url: https://de.wikipedia.org
-  - name: IPv6 test
-    url: forwardemail.net
-    port: 80
-    check: "tcp-ping"
-    ipv6: true
+  - name: Cloudflair DNS
+    url: https://one.one.one.one/
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
