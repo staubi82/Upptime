@@ -80,17 +80,17 @@
     "url": "https://staubile.de",
     "icon": "https://icons.duckduckgo.com/ip3/staubile.de.ico",
     "slug": "staubile-de",
-    "status": "up",
+    "status": "down",
     "uptime": "98.80%",
-    "uptimeDay": "94.65%",
+    "uptimeDay": "94.64%",
     "uptimeWeek": "98.80%",
     "uptimeMonth": "98.80%",
     "uptimeYear": "98.80%",
-    "time": 3694,
-    "timeDay": 3684,
-    "timeWeek": 3694,
-    "timeMonth": 3694,
-    "timeYear": 3694,
+    "time": 3451,
+    "timeDay": 2717,
+    "timeWeek": 3451,
+    "timeMonth": 3451,
+    "timeYear": 3451,
     "dailyMinutesDown": {
       "2024-07-04": 77
     }
@@ -130,7 +130,7 @@
     "timeMonth": 376,
     "timeYear": 376,
     "dailyMinutesDown": {
-      "2024-07-04": 1253,
+      "2024-07-04": 1262,
       "2024-07-03": 1440,
       "2024-07-02": 1440,
       "2024-07-01": 1440,
