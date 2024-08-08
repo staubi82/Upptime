@@ -1,7 +1,7 @@
 url: https://wetter-oeffingen.de
-status: down
-code: 521
-responseTime: 236
-lastUpdated: 2024-08-08T23:24:47.885Z
+status: up
+code: 200
+responseTime: 728
+lastUpdated: 2024-08-08T23:32:13.401Z
 startTime: 2024-06-30T10:58:48.825Z
 generator: Upptime <https://github.com/upptime/upptime>
